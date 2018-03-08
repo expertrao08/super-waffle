@@ -1,1 +1,1 @@
-print("Hello second Script")
+print("Hello second Script02")
